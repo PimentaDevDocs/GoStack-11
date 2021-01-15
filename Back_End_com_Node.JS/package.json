@@ -1,0 +1,9 @@
+{
+  "name": "Back_End_com_Node.JS",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
